@@ -21,6 +21,7 @@ import datetime
 import boto3
 import smtplib
 from email.message import EmailMessage
+import os
 
 
 # aws-p-smtp-01
